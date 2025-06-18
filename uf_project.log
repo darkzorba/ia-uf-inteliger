@@ -1,0 +1,358 @@
+INFO 2025-06-18 19:08:08,753 uf 15864 20996 Fetching all UFs
+INFO 2025-06-18 19:08:10,246 uf 15864 20996 Found 0 UFs.
+INFO 2025-06-18 19:08:10,246 uf 15864 20996 Attempting to create UF with nome='Paran�', sigla='PR', codigo_ibge=41
+INFO 2025-06-18 19:08:11,912 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:08:11,913 uf 15864 20996 UF created successfully: {'id': 1, 'nome': 'Paran�', 'sigla': 'PR', 'codigo_ibge': 41}
+INFO 2025-06-18 19:08:11,913 uf 15864 20996 Attempting to create UF with nome='Santa Catarina', sigla='SC', codigo_ibge=42
+INFO 2025-06-18 19:08:13,620 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:08:13,621 uf 15864 20996 UF created successfully: {'id': 2, 'nome': 'Santa Catarina', 'sigla': 'SC', 'codigo_ibge': 42}
+WARNING 2025-06-18 19:08:13,628 log 15864 20996 Bad Request: /api/ufs/
+WARNING 2025-06-18 19:08:13,628 log 15864 20996 Bad Request: /api/ufs/
+INFO 2025-06-18 19:08:14,839 uf 15864 20996 Fetching all UFs
+INFO 2025-06-18 19:08:16,311 uf 15864 20996 Found 2 UFs.
+INFO 2025-06-18 19:08:16,312 uf 15864 20996 Attempting to delete UF with id=1
+INFO 2025-06-18 19:08:17,917 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:08:17,918 uf 15864 20996 UF with id=1 deleted successfully. 1 row(s) affected.
+INFO 2025-06-18 19:08:17,918 uf 15864 20996 Attempting to delete UF with id=2
+INFO 2025-06-18 19:08:19,614 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:08:19,615 uf 15864 20996 UF with id=2 deleted successfully. 1 row(s) affected.
+INFO 2025-06-18 19:08:19,615 uf 15864 20996 Attempting to create UF with nome='Paran�', sigla='PR', codigo_ibge=41
+INFO 2025-06-18 19:08:21,260 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:08:21,261 uf 15864 20996 UF created successfully: {'id': 3, 'nome': 'Paran�', 'sigla': 'PR', 'codigo_ibge': 41}
+INFO 2025-06-18 19:08:21,261 uf 15864 20996 Attempting to create UF with nome='Santa Catarina', sigla='SC', codigo_ibge=42
+INFO 2025-06-18 19:08:22,882 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:08:22,882 uf 15864 20996 UF created successfully: {'id': 4, 'nome': 'Santa Catarina', 'sigla': 'SC', 'codigo_ibge': 42}
+WARNING 2025-06-18 19:08:22,884 log 15864 20996 Bad Request: /api/ufs/
+WARNING 2025-06-18 19:08:22,884 log 15864 20996 Bad Request: /api/ufs/
+INFO 2025-06-18 19:08:24,105 uf 15864 20996 Fetching all UFs
+INFO 2025-06-18 19:08:25,534 uf 15864 20996 Found 2 UFs.
+INFO 2025-06-18 19:08:25,534 uf 15864 20996 Attempting to delete UF with id=3
+INFO 2025-06-18 19:08:27,154 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:08:27,154 uf 15864 20996 UF with id=3 deleted successfully. 1 row(s) affected.
+INFO 2025-06-18 19:08:27,154 uf 15864 20996 Attempting to delete UF with id=4
+INFO 2025-06-18 19:08:28,852 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:08:28,853 uf 15864 20996 UF with id=4 deleted successfully. 1 row(s) affected.
+INFO 2025-06-18 19:08:28,853 uf 15864 20996 Attempting to create UF with nome='Paran�', sigla='PR', codigo_ibge=41
+INFO 2025-06-18 19:08:30,527 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:08:30,528 uf 15864 20996 UF created successfully: {'id': 5, 'nome': 'Paran�', 'sigla': 'PR', 'codigo_ibge': 41}
+INFO 2025-06-18 19:08:30,528 uf 15864 20996 Attempting to create UF with nome='Santa Catarina', sigla='SC', codigo_ibge=42
+INFO 2025-06-18 19:08:32,185 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:08:32,185 uf 15864 20996 UF created successfully: {'id': 6, 'nome': 'Santa Catarina', 'sigla': 'SC', 'codigo_ibge': 42}
+WARNING 2025-06-18 19:08:32,187 log 15864 20996 Bad Request: /api/ufs/
+WARNING 2025-06-18 19:08:32,187 log 15864 20996 Bad Request: /api/ufs/
+INFO 2025-06-18 19:08:33,360 uf 15864 20996 Fetching all UFs
+INFO 2025-06-18 19:08:34,813 uf 15864 20996 Found 2 UFs.
+INFO 2025-06-18 19:08:34,814 uf 15864 20996 Attempting to delete UF with id=5
+INFO 2025-06-18 19:08:36,467 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:08:36,468 uf 15864 20996 UF with id=5 deleted successfully. 1 row(s) affected.
+INFO 2025-06-18 19:08:36,468 uf 15864 20996 Attempting to delete UF with id=6
+INFO 2025-06-18 19:08:38,136 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:08:38,136 uf 15864 20996 UF with id=6 deleted successfully. 1 row(s) affected.
+INFO 2025-06-18 19:08:38,137 uf 15864 20996 Attempting to create UF with nome='Paran�', sigla='PR', codigo_ibge=41
+INFO 2025-06-18 19:08:39,910 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:08:39,911 uf 15864 20996 UF created successfully: {'id': 7, 'nome': 'Paran�', 'sigla': 'PR', 'codigo_ibge': 41}
+INFO 2025-06-18 19:08:39,911 uf 15864 20996 Attempting to create UF with nome='Santa Catarina', sigla='SC', codigo_ibge=42
+INFO 2025-06-18 19:08:41,624 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:08:41,625 uf 15864 20996 UF created successfully: {'id': 8, 'nome': 'Santa Catarina', 'sigla': 'SC', 'codigo_ibge': 42}
+INFO 2025-06-18 19:08:41,626 uf 15864 20996 Attempting to create UF with nome='Sao Paulo', sigla='SP', codigo_ibge=35
+INFO 2025-06-18 19:08:43,252 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:08:43,253 uf 15864 20996 UF created successfully: {'id': 9, 'nome': 'Sao Paulo', 'sigla': 'SP', 'codigo_ibge': 35}
+INFO 2025-06-18 19:08:43,254 uf 15864 20996 Fetching UF with id=9
+INFO 2025-06-18 19:08:44,706 uf 15864 20996 UF found: {'id': 9, 'nome': 'Sao Paulo', 'sigla': 'SP', 'codigo_ibge': 35}
+INFO 2025-06-18 19:08:45,885 uf 15864 20996 Fetching all UFs
+INFO 2025-06-18 19:08:47,339 uf 15864 20996 Found 3 UFs.
+INFO 2025-06-18 19:08:47,340 uf 15864 20996 Attempting to delete UF with id=7
+INFO 2025-06-18 19:08:49,019 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:08:49,019 uf 15864 20996 UF with id=7 deleted successfully. 1 row(s) affected.
+INFO 2025-06-18 19:08:49,020 uf 15864 20996 Attempting to delete UF with id=8
+INFO 2025-06-18 19:08:50,734 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:08:50,734 uf 15864 20996 UF with id=8 deleted successfully. 1 row(s) affected.
+INFO 2025-06-18 19:08:50,734 uf 15864 20996 Attempting to delete UF with id=9
+INFO 2025-06-18 19:08:52,416 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:08:52,416 uf 15864 20996 UF with id=9 deleted successfully. 1 row(s) affected.
+INFO 2025-06-18 19:08:52,416 uf 15864 20996 Attempting to create UF with nome='Paran�', sigla='PR', codigo_ibge=41
+INFO 2025-06-18 19:08:54,271 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:08:54,271 uf 15864 20996 UF created successfully: {'id': 10, 'nome': 'Paran�', 'sigla': 'PR', 'codigo_ibge': 41}
+INFO 2025-06-18 19:08:54,271 uf 15864 20996 Attempting to create UF with nome='Santa Catarina', sigla='SC', codigo_ibge=42
+INFO 2025-06-18 19:08:56,123 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:08:56,124 uf 15864 20996 UF created successfully: {'id': 11, 'nome': 'Santa Catarina', 'sigla': 'SC', 'codigo_ibge': 42}
+INFO 2025-06-18 19:08:56,124 uf 15864 20996 Attempting to create UF with nome='Para Deletar', sigla='PD', codigo_ibge=99
+INFO 2025-06-18 19:08:57,821 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:08:57,821 uf 15864 20996 UF created successfully: {'id': 12, 'nome': 'Para Deletar', 'sigla': 'PD', 'codigo_ibge': 99}
+INFO 2025-06-18 19:08:57,822 uf 15864 20996 Attempting to delete UF with id=12
+INFO 2025-06-18 19:08:59,492 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:08:59,493 uf 15864 20996 UF with id=12 deleted successfully. 1 row(s) affected.
+INFO 2025-06-18 19:08:59,494 uf 15864 20996 Fetching UF with id=12
+WARNING 2025-06-18 19:09:00,946 uf 15864 20996 UF with id=12 not found.
+INFO 2025-06-18 19:09:02,167 uf 15864 20996 Fetching all UFs
+INFO 2025-06-18 19:09:03,594 uf 15864 20996 Found 2 UFs.
+INFO 2025-06-18 19:09:03,594 uf 15864 20996 Attempting to delete UF with id=10
+INFO 2025-06-18 19:09:05,316 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:09:05,317 uf 15864 20996 UF with id=10 deleted successfully. 1 row(s) affected.
+INFO 2025-06-18 19:09:05,317 uf 15864 20996 Attempting to delete UF with id=11
+INFO 2025-06-18 19:09:06,981 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:09:06,982 uf 15864 20996 UF with id=11 deleted successfully. 1 row(s) affected.
+INFO 2025-06-18 19:09:06,983 uf 15864 20996 Attempting to create UF with nome='Paran�', sigla='PR', codigo_ibge=41
+INFO 2025-06-18 19:09:08,599 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:09:08,600 uf 15864 20996 UF created successfully: {'id': 13, 'nome': 'Paran�', 'sigla': 'PR', 'codigo_ibge': 41}
+INFO 2025-06-18 19:09:08,600 uf 15864 20996 Attempting to create UF with nome='Santa Catarina', sigla='SC', codigo_ibge=42
+INFO 2025-06-18 19:09:10,297 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:09:10,298 uf 15864 20996 UF created successfully: {'id': 14, 'nome': 'Santa Catarina', 'sigla': 'SC', 'codigo_ibge': 42}
+INFO 2025-06-18 19:09:10,299 uf 15864 20996 Attempting to delete UF with id=999
+INFO 2025-06-18 19:09:12,157 sql 15864 20996 Query committed successfully.
+WARNING 2025-06-18 19:09:12,158 uf 15864 20996 UF with id=999 not found for deletion.
+WARNING 2025-06-18 19:09:12,158 log 15864 20996 Not Found: /api/ufs/999/
+WARNING 2025-06-18 19:09:12,158 log 15864 20996 Not Found: /api/ufs/999/
+INFO 2025-06-18 19:09:13,342 uf 15864 20996 Fetching all UFs
+INFO 2025-06-18 19:09:14,788 uf 15864 20996 Found 2 UFs.
+INFO 2025-06-18 19:09:14,788 uf 15864 20996 Attempting to delete UF with id=13
+INFO 2025-06-18 19:09:16,546 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:09:16,547 uf 15864 20996 UF with id=13 deleted successfully. 1 row(s) affected.
+INFO 2025-06-18 19:09:16,547 uf 15864 20996 Attempting to delete UF with id=14
+INFO 2025-06-18 19:09:18,188 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:09:18,189 uf 15864 20996 UF with id=14 deleted successfully. 1 row(s) affected.
+INFO 2025-06-18 19:09:18,189 uf 15864 20996 Attempting to create UF with nome='Paran�', sigla='PR', codigo_ibge=41
+INFO 2025-06-18 19:09:19,941 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:09:19,942 uf 15864 20996 UF created successfully: {'id': 15, 'nome': 'Paran�', 'sigla': 'PR', 'codigo_ibge': 41}
+INFO 2025-06-18 19:09:19,943 uf 15864 20996 Attempting to create UF with nome='Santa Catarina', sigla='SC', codigo_ibge=42
+INFO 2025-06-18 19:09:21,644 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:09:21,646 uf 15864 20996 UF created successfully: {'id': 16, 'nome': 'Santa Catarina', 'sigla': 'SC', 'codigo_ibge': 42}
+INFO 2025-06-18 19:09:21,647 uf 15864 20996 Fetching all UFs
+INFO 2025-06-18 19:09:23,110 uf 15864 20996 Found 2 UFs.
+INFO 2025-06-18 19:09:24,302 uf 15864 20996 Fetching all UFs
+INFO 2025-06-18 19:09:25,736 uf 15864 20996 Found 2 UFs.
+INFO 2025-06-18 19:09:25,737 uf 15864 20996 Attempting to delete UF with id=15
+INFO 2025-06-18 19:09:27,358 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:09:27,358 uf 15864 20996 UF with id=15 deleted successfully. 1 row(s) affected.
+INFO 2025-06-18 19:09:27,360 uf 15864 20996 Attempting to delete UF with id=16
+INFO 2025-06-18 19:09:29,104 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:09:29,105 uf 15864 20996 UF with id=16 deleted successfully. 1 row(s) affected.
+INFO 2025-06-18 19:09:29,105 uf 15864 20996 Attempting to create UF with nome='Paran�', sigla='PR', codigo_ibge=41
+INFO 2025-06-18 19:09:30,756 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:09:30,757 uf 15864 20996 UF created successfully: {'id': 17, 'nome': 'Paran�', 'sigla': 'PR', 'codigo_ibge': 41}
+INFO 2025-06-18 19:09:30,757 uf 15864 20996 Attempting to create UF with nome='Santa Catarina', sigla='SC', codigo_ibge=42
+INFO 2025-06-18 19:09:32,430 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:09:32,431 uf 15864 20996 UF created successfully: {'id': 18, 'nome': 'Santa Catarina', 'sigla': 'SC', 'codigo_ibge': 42}
+INFO 2025-06-18 19:09:32,432 uf 15864 20996 Attempting to update UF with id=18. New data: nome='Santa Catarina Alterado', sigla='None', codigo_ibge=None
+INFO 2025-06-18 19:09:34,162 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:09:34,163 uf 15864 20996 UF with id=18 updated successfully. 1 row(s) affected.
+INFO 2025-06-18 19:09:34,164 uf 15864 20996 Fetching UF with id=18
+INFO 2025-06-18 19:09:35,623 uf 15864 20996 UF found: {'id': 18, 'nome': 'Santa Catarina Alterado', 'sigla': 'SC', 'codigo_ibge': 42}
+INFO 2025-06-18 19:09:35,624 uf 15864 20996 Fetching UF with id=18
+INFO 2025-06-18 19:09:37,137 uf 15864 20996 UF found: {'id': 18, 'nome': 'Santa Catarina Alterado', 'sigla': 'SC', 'codigo_ibge': 42}
+INFO 2025-06-18 19:09:38,306 uf 15864 20996 Fetching all UFs
+INFO 2025-06-18 19:09:39,817 uf 15864 20996 Found 2 UFs.
+INFO 2025-06-18 19:09:39,818 uf 15864 20996 Attempting to delete UF with id=17
+INFO 2025-06-18 19:09:41,454 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:09:41,455 uf 15864 20996 UF with id=17 deleted successfully. 1 row(s) affected.
+INFO 2025-06-18 19:09:41,455 uf 15864 20996 Attempting to delete UF with id=18
+INFO 2025-06-18 19:09:43,110 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:09:43,110 uf 15864 20996 UF with id=18 deleted successfully. 1 row(s) affected.
+INFO 2025-06-18 19:09:43,110 uf 15864 20996 Attempting to create UF with nome='Paran�', sigla='PR', codigo_ibge=41
+INFO 2025-06-18 19:09:44,829 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:09:44,830 uf 15864 20996 UF created successfully: {'id': 19, 'nome': 'Paran�', 'sigla': 'PR', 'codigo_ibge': 41}
+INFO 2025-06-18 19:09:44,830 uf 15864 20996 Attempting to create UF with nome='Santa Catarina', sigla='SC', codigo_ibge=42
+INFO 2025-06-18 19:09:46,471 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:09:46,471 uf 15864 20996 UF created successfully: {'id': 20, 'nome': 'Santa Catarina', 'sigla': 'SC', 'codigo_ibge': 42}
+INFO 2025-06-18 19:09:46,473 uf 15864 20996 Fetching UF with id=19
+INFO 2025-06-18 19:09:47,900 uf 15864 20996 UF found: {'id': 19, 'nome': 'Paran�', 'sigla': 'PR', 'codigo_ibge': 41}
+INFO 2025-06-18 19:09:49,103 uf 15864 20996 Fetching all UFs
+INFO 2025-06-18 19:09:50,608 uf 15864 20996 Found 2 UFs.
+INFO 2025-06-18 19:09:50,609 uf 15864 20996 Attempting to delete UF with id=19
+INFO 2025-06-18 19:09:52,246 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:09:52,246 uf 15864 20996 UF with id=19 deleted successfully. 1 row(s) affected.
+INFO 2025-06-18 19:09:52,247 uf 15864 20996 Attempting to delete UF with id=20
+INFO 2025-06-18 19:09:53,899 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:09:53,901 uf 15864 20996 UF with id=20 deleted successfully. 1 row(s) affected.
+INFO 2025-06-18 19:09:53,901 uf 15864 20996 Attempting to create UF with nome='Paran�', sigla='PR', codigo_ibge=41
+INFO 2025-06-18 19:09:55,689 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:09:55,689 uf 15864 20996 UF created successfully: {'id': 21, 'nome': 'Paran�', 'sigla': 'PR', 'codigo_ibge': 41}
+INFO 2025-06-18 19:09:55,689 uf 15864 20996 Attempting to create UF with nome='Santa Catarina', sigla='SC', codigo_ibge=42
+INFO 2025-06-18 19:09:57,336 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:09:57,337 uf 15864 20996 UF created successfully: {'id': 22, 'nome': 'Santa Catarina', 'sigla': 'SC', 'codigo_ibge': 42}
+INFO 2025-06-18 19:09:57,338 uf 15864 20996 Fetching UF with id=999
+WARNING 2025-06-18 19:09:58,773 uf 15864 20996 UF with id=999 not found.
+WARNING 2025-06-18 19:09:58,773 log 15864 20996 Not Found: /api/ufs/999/
+WARNING 2025-06-18 19:09:58,773 log 15864 20996 Not Found: /api/ufs/999/
+INFO 2025-06-18 19:10:00,007 uf 15864 20996 Fetching all UFs
+INFO 2025-06-18 19:10:01,714 uf 15864 20996 Found 2 UFs.
+INFO 2025-06-18 19:10:01,715 uf 15864 20996 Attempting to delete UF with id=21
+INFO 2025-06-18 19:10:03,712 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:10:03,713 uf 15864 20996 UF with id=21 deleted successfully. 1 row(s) affected.
+INFO 2025-06-18 19:10:03,713 uf 15864 20996 Attempting to delete UF with id=22
+INFO 2025-06-18 19:10:05,363 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:10:05,364 uf 15864 20996 UF with id=22 deleted successfully. 1 row(s) affected.
+INFO 2025-06-18 19:10:05,364 uf 15864 20996 Attempting to create UF with nome='Paran�', sigla='PR', codigo_ibge=41
+INFO 2025-06-18 19:10:07,292 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:10:07,293 uf 15864 20996 UF created successfully: {'id': 23, 'nome': 'Paran�', 'sigla': 'PR', 'codigo_ibge': 41}
+INFO 2025-06-18 19:10:07,293 uf 15864 20996 Attempting to create UF with nome='Santa Catarina', sigla='SC', codigo_ibge=42
+INFO 2025-06-18 19:10:08,904 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:10:08,904 uf 15864 20996 UF created successfully: {'id': 24, 'nome': 'Santa Catarina', 'sigla': 'SC', 'codigo_ibge': 42}
+INFO 2025-06-18 19:10:08,906 uf 15864 20996 Attempting to update UF with id=23. New data: nome='Parana Alterado', sigla='PR', codigo_ibge=410
+INFO 2025-06-18 19:10:10,528 sql 15864 20996 Query committed successfully.
+INFO 2025-06-18 19:10:10,529 uf 15864 20996 UF with id=23 updated successfully. 1 row(s) affected.
+INFO 2025-06-18 19:10:10,529 uf 15864 20996 Fetching UF with id=23
+INFO 2025-06-18 19:10:12,195 uf 15864 20996 UF found: {'id': 23, 'nome': 'Parana Alterado', 'sigla': 'PR', 'codigo_ibge': 410}
+INFO 2025-06-18 19:10:12,197 uf 15864 20996 Fetching UF with id=23
+INFO 2025-06-18 19:10:13,662 uf 15864 20996 UF found: {'id': 23, 'nome': 'Parana Alterado', 'sigla': 'PR', 'codigo_ibge': 410}
+INFO 2025-06-18 19:10:48,840 autoreload 10136 15332 Watching for file changes with StatReloader
+INFO 2025-06-18 19:10:48,840 autoreload 10136 15332 Watching for file changes with StatReloader
+WARNING 2025-06-18 19:10:52,409 log 10136 13240 Not Found: /
+WARNING 2025-06-18 19:10:52,409 log 10136 13240 Not Found: /
+WARNING 2025-06-18 19:10:52,410 basehttp 10136 13240 "GET / HTTP/1.1" 404 2570
+WARNING 2025-06-18 19:10:52,410 basehttp 10136 13240 "GET / HTTP/1.1" 404 2570
+INFO 2025-06-18 19:10:55,565 basehttp 10136 13240 "GET /swagger/ HTTP/1.1" 200 2230
+INFO 2025-06-18 19:10:55,565 basehttp 10136 13240 "GET /swagger/ HTTP/1.1" 200 2230
+INFO 2025-06-18 19:10:55,578 basehttp 10136 13240 "GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+INFO 2025-06-18 19:10:55,578 basehttp 10136 13240 "GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+INFO 2025-06-18 19:10:55,579 basehttp 10136 18924 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 145206
+INFO 2025-06-18 19:10:55,579 basehttp 10136 18924 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 145206
+INFO 2025-06-18 19:10:55,584 basehttp 10136 17176 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583
+INFO 2025-06-18 19:10:55,584 basehttp 10136 17176 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583
+INFO 2025-06-18 19:10:55,610 basehttp 10136 18924 "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+INFO 2025-06-18 19:10:55,610 basehttp 10136 18924 "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+INFO 2025-06-18 19:10:55,612 basehttp 10136 17176 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863
+INFO 2025-06-18 19:10:55,612 basehttp 10136 17176 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863
+INFO 2025-06-18 19:10:55,619 basehttp 10136 17176 "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+INFO 2025-06-18 19:10:55,619 basehttp 10136 17176 "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+INFO 2025-06-18 19:10:55,629 basehttp 10136 17176 "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 15480
+INFO 2025-06-18 19:10:55,629 basehttp 10136 17176 "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 15480
+INFO 2025-06-18 19:10:55,777 basehttp 10136 17176 "GET /swagger/?format=openapi HTTP/1.1" 200 1656
+INFO 2025-06-18 19:10:55,777 basehttp 10136 17176 "GET /swagger/?format=openapi HTTP/1.1" 200 1656
+WARNING 2025-06-18 19:11:05,179 log 10136 17176 Bad Request: /api/ufs/
+WARNING 2025-06-18 19:11:05,179 log 10136 17176 Bad Request: /api/ufs/
+WARNING 2025-06-18 19:11:05,179 basehttp 10136 17176 "POST /api/ufs/ HTTP/1.1" 400 126
+WARNING 2025-06-18 19:11:05,179 basehttp 10136 17176 "POST /api/ufs/ HTTP/1.1" 400 126
+WARNING 2025-06-18 19:12:13,493 log 10136 20312 Bad Request: /api/ufs/
+WARNING 2025-06-18 19:12:13,493 log 10136 20312 Bad Request: /api/ufs/
+WARNING 2025-06-18 19:12:13,494 basehttp 10136 20312 "POST /api/ufs/ HTTP/1.1" 400 60
+WARNING 2025-06-18 19:12:13,494 basehttp 10136 20312 "POST /api/ufs/ HTTP/1.1" 400 60
+INFO 2025-06-18 19:12:18,504 uf 10136 20312 Attempting to create UF with nome='Teste', sigla='TE', codigo_ibge=32
+INFO 2025-06-18 19:12:20,232 sql 10136 20312 Query committed successfully.
+INFO 2025-06-18 19:12:20,233 uf 10136 20312 UF created successfully: {'id': 1, 'nome': 'Teste', 'sigla': 'TE', 'codigo_ibge': 32}
+INFO 2025-06-18 19:12:20,234 basehttp 10136 20312 "POST /api/ufs/ HTTP/1.1" 201 53
+INFO 2025-06-18 19:12:20,234 basehttp 10136 20312 "POST /api/ufs/ HTTP/1.1" 201 53
+INFO 2025-06-18 19:12:26,888 uf 10136 20312 Fetching all UFs
+INFO 2025-06-18 19:12:28,349 uf 10136 20312 Found 1 UFs.
+INFO 2025-06-18 19:12:28,350 basehttp 10136 20312 "GET /api/ufs/ HTTP/1.1" 200 55
+INFO 2025-06-18 19:12:28,350 basehttp 10136 20312 "GET /api/ufs/ HTTP/1.1" 200 55
+INFO 2025-06-18 19:12:35,353 uf 10136 20312 Fetching UF with id=1
+INFO 2025-06-18 19:12:36,813 uf 10136 20312 UF found: {'id': 1, 'nome': 'Teste', 'sigla': 'TE', 'codigo_ibge': 32}
+INFO 2025-06-18 19:12:36,814 basehttp 10136 20312 "GET /api/ufs/1/ HTTP/1.1" 200 53
+INFO 2025-06-18 19:12:36,814 basehttp 10136 20312 "GET /api/ufs/1/ HTTP/1.1" 200 53
+INFO 2025-06-18 19:13:48,863 autoreload 10136 15332 C:\Users\HeroS\inteliger\uf_management_project\api_uf\views.py changed, reloading.
+INFO 2025-06-18 19:13:48,863 autoreload 10136 15332 C:\Users\HeroS\inteliger\uf_management_project\api_uf\views.py changed, reloading.
+INFO 2025-06-18 19:13:49,563 autoreload 3152 11112 Watching for file changes with StatReloader
+INFO 2025-06-18 19:13:49,563 autoreload 3152 11112 Watching for file changes with StatReloader
+INFO 2025-06-18 19:15:04,387 autoreload 3152 11112 C:\Users\HeroS\inteliger\uf_management_project\api_uf\views.py changed, reloading.
+INFO 2025-06-18 19:15:04,387 autoreload 3152 11112 C:\Users\HeroS\inteliger\uf_management_project\api_uf\views.py changed, reloading.
+INFO 2025-06-18 19:15:04,938 autoreload 17472 7772 Watching for file changes with StatReloader
+INFO 2025-06-18 19:15:04,938 autoreload 17472 7772 Watching for file changes with StatReloader
+INFO 2025-06-18 19:15:13,018 basehttp 17472 10988 "GET /swagger/ HTTP/1.1" 200 2230
+INFO 2025-06-18 19:15:13,018 basehttp 17472 10988 "GET /swagger/ HTTP/1.1" 200 2230
+INFO 2025-06-18 19:15:13,053 basehttp 17472 10988 "GET /static/drf-yasg/style.css HTTP/1.1" 304 0
+INFO 2025-06-18 19:15:13,053 basehttp 17472 10988 "GET /static/drf-yasg/style.css HTTP/1.1" 304 0
+INFO 2025-06-18 19:15:13,054 basehttp 17472 23172 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 304 0
+INFO 2025-06-18 19:15:13,054 basehttp 17472 5252 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 304 0
+INFO 2025-06-18 19:15:13,054 basehttp 17472 23172 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 304 0
+INFO 2025-06-18 19:15:13,054 basehttp 17472 5252 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 304 0
+INFO 2025-06-18 19:15:13,057 basehttp 17472 13712 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 304 0
+INFO 2025-06-18 19:15:13,057 basehttp 17472 13712 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 304 0
+INFO 2025-06-18 19:15:13,058 basehttp 17472 9732 "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 304 0
+INFO 2025-06-18 19:15:13,058 basehttp 17472 10988 "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 304 0
+INFO 2025-06-18 19:15:13,058 basehttp 17472 4724 "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 304 0
+INFO 2025-06-18 19:15:13,058 basehttp 17472 9732 "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 304 0
+INFO 2025-06-18 19:15:13,058 basehttp 17472 10988 "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 304 0
+INFO 2025-06-18 19:15:13,058 basehttp 17472 4724 "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 304 0
+INFO 2025-06-18 19:15:13,206 basehttp 17472 4724 "GET /swagger/?format=openapi HTTP/1.1" 200 7741
+INFO 2025-06-18 19:15:13,206 basehttp 17472 4724 "GET /swagger/?format=openapi HTTP/1.1" 200 7741
+INFO 2025-06-18 19:15:13,214 basehttp 17472 4724 "GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+INFO 2025-06-18 19:15:13,214 basehttp 17472 4724 "GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+WARNING 2025-06-18 19:15:24,468 log 17472 6616 Bad Request: /api/ufs/
+WARNING 2025-06-18 19:15:24,468 log 17472 6616 Bad Request: /api/ufs/
+WARNING 2025-06-18 19:15:24,469 basehttp 17472 6616 "POST /api/ufs/ HTTP/1.1" 400 60
+WARNING 2025-06-18 19:15:24,469 basehttp 17472 6616 "POST /api/ufs/ HTTP/1.1" 400 60
+INFO 2025-06-18 19:15:44,301 uf 17472 6616 Attempting to create UF with nome='string', sigla='ST', codigo_ibge=0
+INFO 2025-06-18 19:15:46,170 sql 17472 6616 Query committed successfully.
+INFO 2025-06-18 19:15:46,170 uf 17472 6616 UF created successfully: {'id': 2, 'nome': 'string', 'sigla': 'ST', 'codigo_ibge': 0}
+INFO 2025-06-18 19:15:46,172 basehttp 17472 6616 "POST /api/ufs/ HTTP/1.1" 201 53
+INFO 2025-06-18 19:15:46,172 basehttp 17472 6616 "POST /api/ufs/ HTTP/1.1" 201 53
+INFO 2025-06-18 19:15:52,957 uf 17472 6616 Fetching all UFs
+INFO 2025-06-18 19:15:54,454 uf 17472 6616 Found 2 UFs.
+INFO 2025-06-18 19:15:54,456 basehttp 17472 6616 "GET /api/ufs/ HTTP/1.1" 200 109
+INFO 2025-06-18 19:15:54,456 basehttp 17472 6616 "GET /api/ufs/ HTTP/1.1" 200 109
+INFO 2025-06-18 19:16:08,983 uf 17472 6616 Fetching UF with id=2
+INFO 2025-06-18 19:16:10,526 uf 17472 6616 UF found: {'id': 2, 'nome': 'string', 'sigla': 'ST', 'codigo_ibge': 0}
+INFO 2025-06-18 19:16:10,527 basehttp 17472 6616 "GET /api/ufs/2/ HTTP/1.1" 200 53
+INFO 2025-06-18 19:16:10,527 basehttp 17472 6616 "GET /api/ufs/2/ HTTP/1.1" 200 53
+INFO 2025-06-18 19:16:25,307 uf 17472 6616 Attempting to update UF with id=2. New data: nome='string', sigla='TR', codigo_ibge=0
+INFO 2025-06-18 19:16:27,217 sql 17472 6616 Query committed successfully.
+INFO 2025-06-18 19:16:27,218 uf 17472 6616 UF with id=2 updated successfully. 1 row(s) affected.
+INFO 2025-06-18 19:16:27,218 uf 17472 6616 Fetching UF with id=2
+INFO 2025-06-18 19:16:28,715 uf 17472 6616 UF found: {'id': 2, 'nome': 'string', 'sigla': 'TR', 'codigo_ibge': 0}
+INFO 2025-06-18 19:16:28,715 basehttp 17472 6616 "PUT /api/ufs/2/ HTTP/1.1" 200 53
+INFO 2025-06-18 19:16:28,715 basehttp 17472 6616 "PUT /api/ufs/2/ HTTP/1.1" 200 53
+INFO 2025-06-18 19:16:40,716 uf 17472 6616 Attempting to delete UF with id=2
+INFO 2025-06-18 19:16:42,373 sql 17472 6616 Query committed successfully.
+INFO 2025-06-18 19:16:42,374 uf 17472 6616 UF with id=2 deleted successfully. 1 row(s) affected.
+INFO 2025-06-18 19:16:42,374 basehttp 17472 6616 "DELETE /api/ufs/2/ HTTP/1.1" 204 0
+INFO 2025-06-18 19:16:42,374 basehttp 17472 6616 "DELETE /api/ufs/2/ HTTP/1.1" 204 0
+INFO 2025-06-18 19:17:57,344 uf 17472 6616 Attempting to delete UF with id=2
+INFO 2025-06-18 19:17:59,066 sql 17472 6616 Query committed successfully.
+WARNING 2025-06-18 19:17:59,067 uf 17472 6616 UF with id=2 not found for deletion.
+WARNING 2025-06-18 19:17:59,067 log 17472 6616 Not Found: /api/ufs/2/
+WARNING 2025-06-18 19:17:59,067 log 17472 6616 Not Found: /api/ufs/2/
+WARNING 2025-06-18 19:17:59,068 basehttp 17472 6616 "DELETE /api/ufs/2/ HTTP/1.1" 404 31
+WARNING 2025-06-18 19:17:59,068 basehttp 17472 6616 "DELETE /api/ufs/2/ HTTP/1.1" 404 31
+INFO 2025-06-18 19:18:07,590 uf 17472 6616 Attempting to delete UF with id=1
+INFO 2025-06-18 19:18:09,319 sql 17472 6616 Query committed successfully.
+INFO 2025-06-18 19:18:09,319 uf 17472 6616 UF with id=1 deleted successfully. 1 row(s) affected.
+INFO 2025-06-18 19:18:09,320 basehttp 17472 6616 "DELETE /api/ufs/1/ HTTP/1.1" 204 0
+INFO 2025-06-18 19:18:09,320 basehttp 17472 6616 "DELETE /api/ufs/1/ HTTP/1.1" 204 0
+INFO 2025-06-18 19:18:23,997 uf 17472 6616 Fetching all UFs
+INFO 2025-06-18 19:18:25,498 uf 17472 6616 Found 0 UFs.
+INFO 2025-06-18 19:18:25,499 basehttp 17472 6616 "GET /api/ufs/ HTTP/1.1" 200 2
+INFO 2025-06-18 19:18:25,499 basehttp 17472 6616 "GET /api/ufs/ HTTP/1.1" 200 2
+INFO 2025-06-18 19:22:12,057 autoreload 6648 13012 Watching for file changes with StatReloader
+INFO 2025-06-18 19:22:12,057 autoreload 6648 13012 Watching for file changes with StatReloader
+INFO 2025-06-18 19:44:07,684 autoreload 19452 6236 Watching for file changes with StatReloader
+INFO 2025-06-18 19:44:07,684 autoreload 19452 6236 Watching for file changes with StatReloader
+WARNING 2025-06-18 19:44:13,170 log 19452 12732 Not Found: /
+WARNING 2025-06-18 19:44:13,170 log 19452 12732 Not Found: /
+WARNING 2025-06-18 19:44:13,171 basehttp 19452 12732 "GET / HTTP/1.1" 404 2570
+WARNING 2025-06-18 19:44:13,171 basehttp 19452 12732 "GET / HTTP/1.1" 404 2570
+WARNING 2025-06-18 19:44:14,471 log 19452 12732 Not Found: /favicon.ico
+WARNING 2025-06-18 19:44:14,471 log 19452 12732 Not Found: /favicon.ico
+WARNING 2025-06-18 19:44:14,473 basehttp 19452 12732 "GET /favicon.ico HTTP/1.1" 404 2621
+WARNING 2025-06-18 19:44:14,473 basehttp 19452 12732 "GET /favicon.ico HTTP/1.1" 404 2621
+INFO 2025-06-18 19:44:19,593 basehttp 19452 24124 "GET /swagger/ HTTP/1.1" 200 2230
+INFO 2025-06-18 19:44:19,593 basehttp 19452 24124 "GET /swagger/ HTTP/1.1" 200 2230
+INFO 2025-06-18 19:44:19,639 basehttp 19452 24124 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 304 0
+INFO 2025-06-18 19:44:19,639 basehttp 19452 18416 "GET /static/drf-yasg/style.css HTTP/1.1" 304 0
+INFO 2025-06-18 19:44:19,639 basehttp 19452 24124 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 304 0
+INFO 2025-06-18 19:44:19,639 basehttp 19452 18416 "GET /static/drf-yasg/style.css HTTP/1.1" 304 0
+INFO 2025-06-18 19:44:19,639 basehttp 19452 8524 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 304 0
+INFO 2025-06-18 19:44:19,639 basehttp 19452 8524 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 304 0
+INFO 2025-06-18 19:44:19,673 basehttp 19452 8524 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 304 0
+INFO 2025-06-18 19:44:19,673 basehttp 19452 8524 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 304 0
+INFO 2025-06-18 19:44:19,677 basehttp 19452 8524 "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 304 0
+INFO 2025-06-18 19:44:19,677 basehttp 19452 8524 "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 304 0
+INFO 2025-06-18 19:44:19,682 basehttp 19452 8524 "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 304 0
+INFO 2025-06-18 19:44:19,682 basehttp 19452 8524 "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 304 0
+INFO 2025-06-18 19:44:19,715 basehttp 19452 8524 "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 304 0
+INFO 2025-06-18 19:44:19,715 basehttp 19452 8524 "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 304 0
+INFO 2025-06-18 19:44:19,765 basehttp 19452 8524 "GET /swagger/?format=openapi HTTP/1.1" 200 7741
+INFO 2025-06-18 19:44:19,765 basehttp 19452 8524 "GET /swagger/?format=openapi HTTP/1.1" 200 7741
+WARNING 2025-06-18 19:44:28,898 log 19452 8524 Bad Request: /api/ufs/
+WARNING 2025-06-18 19:44:28,898 log 19452 8524 Bad Request: /api/ufs/
+WARNING 2025-06-18 19:44:28,900 basehttp 19452 8524 "POST /api/ufs/ HTTP/1.1" 400 60
+WARNING 2025-06-18 19:44:28,900 basehttp 19452 8524 "POST /api/ufs/ HTTP/1.1" 400 60
+INFO 2025-06-18 19:44:37,683 uf 19452 8524 Attempting to create UF with nome='string', sigla='ST', codigo_ibge=0
+INFO 2025-06-18 19:44:39,405 sql 19452 8524 Query committed successfully.
+INFO 2025-06-18 19:44:39,409 uf 19452 8524 UF created successfully: {'id': 3, 'nome': 'string', 'sigla': 'ST', 'codigo_ibge': 0}
+INFO 2025-06-18 19:44:39,410 basehttp 19452 8524 "POST /api/ufs/ HTTP/1.1" 201 53
+INFO 2025-06-18 19:44:39,410 basehttp 19452 8524 "POST /api/ufs/ HTTP/1.1" 201 53
+INFO 2025-06-18 19:44:46,461 uf 19452 8524 Fetching all UFs
+INFO 2025-06-18 19:44:48,045 uf 19452 8524 Found 1 UFs.
+INFO 2025-06-18 19:44:48,049 basehttp 19452 8524 "GET /api/ufs/ HTTP/1.1" 200 55
+INFO 2025-06-18 19:44:48,049 basehttp 19452 8524 "GET /api/ufs/ HTTP/1.1" 200 55
